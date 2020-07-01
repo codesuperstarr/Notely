@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notely</string>
+    <string name="title">title</string>
+    <string name="title_of_note">title of note</string>
+</resources>
